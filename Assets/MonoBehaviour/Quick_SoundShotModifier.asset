@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f0d9fdb7e74f91438fe3fc16926979f, type: 3}
+  m_Name: Quick_SoundShotModifier
+  m_EditorClassIdentifier:
+  priority: 2
+  single: {fileID: 11400000, guid: c47600333a0e77f4189818ce6eb66645, type: 2}
+  singleAutoLoop: {fileID: 11400000, guid: feb6d60110f9fe14091b5dce99747f5d, type: 2}
+  singleAutoTail: {fileID: 11400000, guid: 17c53f3cbc424914d8662e59e271dc23, type: 2}
+  shotgun: {fileID: 11400000, guid: 0acfbeef40d3d714299910f21866780d, type: 2}
+  shotgunAutoLoop: {fileID: 11400000, guid: 79400d9b740ff8f47803515cf5e163b9, type: 2}
+  shotgunAutoTail: {fileID: 11400000, guid: a6066314bcf8a4348865c19a72dd8407, type: 2}

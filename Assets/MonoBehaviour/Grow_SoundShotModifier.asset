@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f0d9fdb7e74f91438fe3fc16926979f, type: 3}
+  m_Name: Grow_SoundShotModifier
+  m_EditorClassIdentifier:
+  priority: 1
+  single: {fileID: 11400000, guid: c7145979fdf35f740aa6c52df23495cd, type: 2}
+  singleAutoLoop: {fileID: 11400000, guid: 48641b2ffaf79404f91465426b3861d9, type: 2}
+  singleAutoTail: {fileID: 11400000, guid: af29d2c7c402d00468de643c9031a5fe, type: 2}
+  shotgun: {fileID: 11400000, guid: 965e8e06c2a9acb4e99884b1e0447f71, type: 2}
+  shotgunAutoLoop: {fileID: 11400000, guid: a4c0b29dc4f839f4b914afac52fc44bc, type: 2}
+  shotgunAutoTail: {fileID: 11400000, guid: 1386078c95972b44795af937154444c8, type: 2}

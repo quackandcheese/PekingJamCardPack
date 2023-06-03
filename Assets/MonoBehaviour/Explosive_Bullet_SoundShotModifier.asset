@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f0d9fdb7e74f91438fe3fc16926979f, type: 3}
+  m_Name: Explosive_Bullet_SoundShotModifier
+  m_EditorClassIdentifier:
+  priority: 2
+  single: {fileID: 11400000, guid: d351708af7d34e94c85c15c9aded0126, type: 2}
+  singleAutoLoop: {fileID: 11400000, guid: cbe0c92f3aa5cf74fa0ad3bf70900784, type: 2}
+  singleAutoTail: {fileID: 11400000, guid: e9c8333be7fd66b4a98d0c5530c1f7a6, type: 2}
+  shotgun: {fileID: 11400000, guid: d971248314ccb884b95899875e480e40, type: 2}
+  shotgunAutoLoop: {fileID: 11400000, guid: 5c681fe47a0f9344285438b9393b5543, type: 2}
+  shotgunAutoTail: {fileID: 11400000, guid: b561c87597d9e1247a01919cc1385986, type: 2}

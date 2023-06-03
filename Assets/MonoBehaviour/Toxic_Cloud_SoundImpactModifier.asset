@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8d8342f1b3246d49880e4b85770353f, type: 3}
+  m_Name: Toxic_Cloud_SoundImpactModifier
+  m_EditorClassIdentifier:
+  priority: 1
+  impactCharacter: {fileID: 11400000, guid: bda29b82e2a47c741800cf4d3befbe64, type: 2}
+  impactEnvironment: {fileID: 11400000, guid: 2aa917c4332458941bb9028bdc0d6a0f, type: 2}

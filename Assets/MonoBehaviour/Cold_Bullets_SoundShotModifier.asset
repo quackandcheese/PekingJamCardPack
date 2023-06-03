@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f0d9fdb7e74f91438fe3fc16926979f, type: 3}
+  m_Name: Cold_Bullets_SoundShotModifier
+  m_EditorClassIdentifier:
+  priority: 1
+  single: {fileID: 11400000, guid: 7b6b05f7a89926841ab9a68dc1436972, type: 2}
+  singleAutoLoop: {fileID: 11400000, guid: ff9a1fe17263d614c899817520526d32, type: 2}
+  singleAutoTail: {fileID: 11400000, guid: d7e46f8245b61154dae1e096fdbd6534, type: 2}
+  shotgun: {fileID: 11400000, guid: 2380d692d3a0ee94d8b82639f46b5610, type: 2}
+  shotgunAutoLoop: {fileID: 11400000, guid: b2a23842613b2ef4ebb93a084729769a, type: 2}
+  shotgunAutoTail: {fileID: 11400000, guid: e86baf430c9f25946a38be72597636af, type: 2}

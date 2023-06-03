@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f0d9fdb7e74f91438fe3fc16926979f, type: 3}
+  m_Name: Ensnare_SoundShotModifier
+  m_EditorClassIdentifier:
+  priority: 1
+  single: {fileID: 11400000, guid: ecae546657149374990ae5fb43cd41bf, type: 2}
+  singleAutoLoop: {fileID: 11400000, guid: 3b86d2b56ca0cf34f803131c1eb2e7ee, type: 2}
+  singleAutoTail: {fileID: 11400000, guid: 482fd65d6aa0a6a458cc44719fd0bd32, type: 2}
+  shotgun: {fileID: 11400000, guid: 78378f5ce9d068b478c8e484ceeb1bcb, type: 2}
+  shotgunAutoLoop: {fileID: 11400000, guid: de947d34933c58449961cb727cb43e02, type: 2}
+  shotgunAutoTail: {fileID: 11400000, guid: 02dde85aaedad684ba95e5d24e9f9289, type: 2}

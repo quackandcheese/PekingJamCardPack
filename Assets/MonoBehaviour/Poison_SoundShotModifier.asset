@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f0d9fdb7e74f91438fe3fc16926979f, type: 3}
+  m_Name: Poison_SoundShotModifier
+  m_EditorClassIdentifier:
+  priority: 1
+  single: {fileID: 11400000, guid: ae7e221a0479bb44598a9e5944c6b2b7, type: 2}
+  singleAutoLoop: {fileID: 11400000, guid: 6e3e169720a5a694a9bc14e552b97827, type: 2}
+  singleAutoTail: {fileID: 11400000, guid: fa2694b434d814a438c1a29ed7043b42, type: 2}
+  shotgun: {fileID: 11400000, guid: caadd4c9cd05f334393f12f1d7ec2f02, type: 2}
+  shotgunAutoLoop: {fileID: 11400000, guid: dc2d710ce6719544b91f0ff472dc7119, type: 2}
+  shotgunAutoTail: {fileID: 11400000, guid: 6ff0f94da58728a4981dd0e75c1a5e5b, type: 2}

@@ -1,0 +1,192 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 599046829, guid: 7b103cb0db623c84bbfc260cac5acf8d, type: 3}
+  m_Name: MUS_Level_Playlist_SE
+  m_EditorClassIdentifier:
+  soundContainerArray: []
+  variables:
+    expandSoundContainers: 1
+    expandTimeline: 1
+    expandPreview: 0
+    expandAdvancedSettings: 1
+    expandTriggerOnPlay: 1
+    expandTriggerOnStop: 0
+    expandTriggerOnTail: 0
+    expandAllSoundTag: 0
+    timelineSoundContainerSetting: []
+    disableEnable: 0
+    soundEventModifier:
+      volumeDecibel: 0
+      volumeRatio: 1
+      pitchSemitone: 0
+      pitchRatio: 1
+      delay: 0
+      increase2d: 0
+      intensity: 1
+      reverbZoneMixDecibel: 0
+      reverbZoneMixRatio: 1
+      startPosition: 0
+      reverse: 0
+      stereoPan: 0
+      polyphony: 1
+      distanceScale: 1
+      distortionIncrease: 0
+      fadeInLength: 0
+      fadeInShape: -2
+      fadeOutLength: 0
+      fadeOutShape: -2
+      followTransform: 1
+      bypassReverbZones: 0
+      bypassVoiceEffects: 0
+      bypassListenerEffects: 0
+      volumeUse: 0
+      pitchUse: 0
+      delayUse: 0
+      increase2dUse: 0
+      intensityUse: 0
+      reverbZoneMixUse: 0
+      startPositionUse: 0
+      reverseUse: 0
+      stereoPanUse: 0
+      polyphonyUse: 0
+      distanceScaleUse: 0
+      distortionIncreaseUse: 0
+      fadeInLengthUse: 0
+      fadeInShapeUse: 0
+      fadeOutLengthUse: 0
+      fadeOutShapeUse: 0
+      followTransformUse: 0
+      bypassReverbZonesUse: 0
+      bypassVoiceEffectsUse: 0
+      bypassListenerEffectsUse: 0
+    audioMixerGroup: {fileID: 24300000, guid: 410447abc65de7543ae4cd3f268fbb71, type: 2}
+    soundMix: {fileID: 11400000, guid: 5bfc45f7e48fad146af4beeda24b6c62, type: 2}
+    soundPolyGroup: {fileID: 0}
+    soundPolyGroupPriority: 1
+    cooldownTime: 0
+    probability: 100
+    triggerOnPlayEnable: 1
+    triggerOnPlaySoundEvents:
+    - {fileID: 11400000, guid: 9c2e56e729bb0714fab113667b8d2482, type: 2}
+    - {fileID: 11400000, guid: ec6dabc6466701840a0a7d24b9ec6ccd, type: 2}
+    - {fileID: 11400000, guid: 7ea9a3840d48ae6449d2f0cbc856f9b6, type: 2}
+    - {fileID: 11400000, guid: 9c797c89792034e4092b2bf91465a951, type: 2}
+    - {fileID: 11400000, guid: 36538e5b57eb9e349a1c93ec3799a1a1, type: 2}
+    - {fileID: 11400000, guid: c971287b689b5d84a879ba9b6a716805, type: 2}
+    - {fileID: 11400000, guid: 5fd03e5f10911e54eb1fef840ebc30a7, type: 2}
+    - {fileID: 11400000, guid: d31068f40bd52cc49a1d31d6f597fd00, type: 2}
+    - {fileID: 11400000, guid: a26fa0128a811c1448c320e2f983c6c0, type: 2}
+    - {fileID: 11400000, guid: 018896b843443424d8eb5bef9ac74987, type: 2}
+    triggerOnPlayWhichToPlayEnum: 1
+    triggerOnStopEnable: 0
+    triggerOnStopSoundEvents: []
+    triggerOnStopWhichToPlayEnum: 0
+    triggerOnTailEnable: 0
+    triggerOnTailSoundEvents: []
+    triggerOnTailWhichToPlayEnum: 1
+    triggerOnTailLength: 4
+    triggerOnTailBpm: 120
+    triggerOnTailBeatLength: 2
+    soundTagEnable: 0
+    soundTagMode: 1
+    soundTagGroupArray:
+    - soundTag: {fileID: 0}
+      baseSoundEventModifier:
+        volumeDecibel: 0
+        volumeRatio: 1
+        pitchSemitone: 0
+        pitchRatio: 1
+        delay: 0
+        increase2d: 0
+        intensity: 1
+        reverbZoneMixDecibel: 0
+        reverbZoneMixRatio: 1
+        startPosition: 0
+        reverse: 0
+        stereoPan: 0
+        polyphony: 1
+        distanceScale: 1
+        distortionIncrease: 0
+        fadeInLength: 0
+        fadeInShape: -2
+        fadeOutLength: 0
+        fadeOutShape: -2
+        followTransform: 1
+        bypassReverbZones: 0
+        bypassVoiceEffects: 0
+        bypassListenerEffects: 0
+        volumeUse: 0
+        pitchUse: 0
+        delayUse: 0
+        increase2dUse: 0
+        intensityUse: 0
+        reverbZoneMixUse: 0
+        startPositionUse: 0
+        reverseUse: 0
+        stereoPanUse: 0
+        polyphonyUse: 0
+        distanceScaleUse: 0
+        distortionIncreaseUse: 0
+        fadeInLengthUse: 0
+        fadeInShapeUse: 0
+        fadeOutLengthUse: 0
+        fadeOutShapeUse: 0
+        followTransformUse: 0
+        bypassReverbZonesUse: 0
+        bypassVoiceEffectsUse: 0
+        bypassListenerEffectsUse: 0
+      soundTagSoundEventModifier:
+        volumeDecibel: 0
+        volumeRatio: 1
+        pitchSemitone: 0
+        pitchRatio: 1
+        delay: 0
+        increase2d: 0
+        intensity: 1
+        reverbZoneMixDecibel: 0
+        reverbZoneMixRatio: 1
+        startPosition: 0
+        reverse: 0
+        stereoPan: 0
+        polyphony: 1
+        distanceScale: 1
+        distortionIncrease: 0
+        fadeInLength: 0
+        fadeInShape: -2
+        fadeOutLength: 0
+        fadeOutShape: -2
+        followTransform: 1
+        bypassReverbZones: 0
+        bypassVoiceEffects: 0
+        bypassListenerEffects: 0
+        volumeUse: 0
+        pitchUse: 0
+        delayUse: 0
+        increase2dUse: 0
+        intensityUse: 0
+        reverbZoneMixUse: 0
+        startPositionUse: 0
+        reverseUse: 0
+        stereoPanUse: 0
+        polyphonyUse: 0
+        distanceScaleUse: 0
+        distortionIncreaseUse: 0
+        fadeInLengthUse: 0
+        fadeInShapeUse: 0
+        fadeOutLengthUse: 0
+        fadeOutShapeUse: 0
+        followTransformUse: 0
+        bypassReverbZonesUse: 0
+        bypassVoiceEffectsUse: 0
+        bypassListenerEffectsUse: 0
+      soundEvent: []
+      useSoundEventModifiers: 0

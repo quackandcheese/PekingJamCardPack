@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f0d9fdb7e74f91438fe3fc16926979f, type: 3}
+  m_Name: Thruster_SoundShotModifier
+  m_EditorClassIdentifier:
+  priority: 1
+  single: {fileID: 11400000, guid: 2dcdcb1da73d38841ad209096cb53d94, type: 2}
+  singleAutoLoop: {fileID: 11400000, guid: 041f9cd1f125475459190f875de33bd0, type: 2}
+  singleAutoTail: {fileID: 11400000, guid: bad945b8121b94548a4e79a20524de8f, type: 2}
+  shotgun: {fileID: 11400000, guid: 822750bfd1d9c6d4ebd0cb1acd1762fe, type: 2}
+  shotgunAutoLoop: {fileID: 11400000, guid: 3a0033e2dfccb904eb6cd05102dfc224, type: 2}
+  shotgunAutoTail: {fileID: 11400000, guid: 71781e87a2249104db20bb50482cffd4, type: 2}

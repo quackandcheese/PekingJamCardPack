@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f0d9fdb7e74f91438fe3fc16926979f, type: 3}
+  m_Name: Parasite_SoundShotModifier
+  m_EditorClassIdentifier:
+  priority: 1
+  single: {fileID: 11400000, guid: deca3586adb681f49965c22bde7b2202, type: 2}
+  singleAutoLoop: {fileID: 11400000, guid: 6741620f799e7bc448533f356545dd0b, type: 2}
+  singleAutoTail: {fileID: 11400000, guid: d2a59e7534fb8c1499b4b29d1164ddc8, type: 2}
+  shotgun: {fileID: 11400000, guid: c0365d96fbd48314aac2349b6e125887, type: 2}
+  shotgunAutoLoop: {fileID: 11400000, guid: 1a13ff5bed5f17243a5cd403c8c919ca, type: 2}
+  shotgunAutoTail: {fileID: 11400000, guid: 171da981973c46448b29dbb3bd39eb3b, type: 2}

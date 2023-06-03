@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f0d9fdb7e74f91438fe3fc16926979f, type: 3}
+  m_Name: Demonic_Pact_SoundShotModifier
+  m_EditorClassIdentifier:
+  priority: 1
+  single: {fileID: 11400000, guid: e6eccbd7d4a846540a6fd33de8500afc, type: 2}
+  singleAutoLoop: {fileID: 11400000, guid: 61c17ed74be1c164a8ec035c0b9e7612, type: 2}
+  singleAutoTail: {fileID: 11400000, guid: 985e72cdb802c3a47b33c674e9596ae6, type: 2}
+  shotgun: {fileID: 11400000, guid: f2762f822a743e24da027fab216dc45a, type: 2}
+  shotgunAutoLoop: {fileID: 11400000, guid: 6ee57045bb09b824391891e4aaff1ed0, type: 2}
+  shotgunAutoTail: {fileID: 11400000, guid: f3fb6046f6702fe40b869184a024c820, type: 2}
