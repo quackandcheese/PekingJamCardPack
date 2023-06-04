@@ -26,6 +26,6 @@ public class PekingJamCardPack : BaseUnityPlugin
         harmony.PatchAll();
         assets = Jotunn.Utils.AssetUtils.LoadAssetBundleFromResources("assets", typeof(PekingJamCardPack).Assembly);
 
-        //assets.LoadAsset<GameObject>("ModCards").GetComponent<CardHolder>().RegisterCards();
+        assets.LoadAsset<GameObject>("ModCards").GetComponent<CardHolder>().RegisterCards();
     }
 }
